@@ -1,6 +1,5 @@
 body {
   font-family: "Arial", "Meiryo", sans-serif;
-  font-size: 20px;
   text-align:center;
 }
 .blue {
@@ -17,9 +16,10 @@ body {
   text-shadow: 1px 1px 2px grey;
   border-bottom: solid 3px rgb(115,115,114);
 }
-#basic{
-  p{
-    font-weight: bold;
-  }
+#basic p{
+  font-weight: bold;
 }
 
+h1 {
+  font-size: 50px;
+}
