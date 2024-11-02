@@ -12,7 +12,7 @@ body {
   color: rgb(255, 192, 203);
 }
 
-.decoration {
+h1 {
   font-family: "Josefin Sans", sans-serif;
   font-size: 2rem;
   letter-spacing: 1.2em;
@@ -21,8 +21,4 @@ body {
 }
 #basic p {
   font-weight: bold;
-}
-
-h1 {
-  font-size: 50px;
 }
